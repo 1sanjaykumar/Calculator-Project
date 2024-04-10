@@ -77,4 +77,8 @@ button:active {
   button {
     font-size: 15vw;
   }
+
+  #display {
+    font-size: 15vw;
+  }
 }
