@@ -74,10 +74,9 @@ button:active {
   #calculator {
     width: 95vw;
   }
-  button {
+  #keys button {
     font-size: 15vw;
   }
-
   #display {
     font-size: 20vw;
   }
