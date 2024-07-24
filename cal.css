@@ -19,7 +19,7 @@ body {
 
 #calculator {
   margin-top: 3vw;
-  width: 25vw;
+  width: 23vw;
   height: 90vh;
   /* backdrop-filter: blur(5.5px); */
   border-radius: 15px;
@@ -92,7 +92,7 @@ button:active {
   #calculator {
     margin-top: 10%;
     width: 90vw;
-    height: 197vw;
+    height: 150vw;
   }
   #keys button {
     font-size: 15vw;
