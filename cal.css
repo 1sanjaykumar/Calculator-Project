@@ -49,9 +49,10 @@ body {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 5%;
-  padding: 10%;
+  padding: 7%;
   border: none;
   height: 70%;
+  width:85%;
 }
 
 button {
